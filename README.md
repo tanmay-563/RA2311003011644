@@ -4,6 +4,16 @@ This project implements a **priority-based notification system** with a centrali
 It fetches notifications from an authenticated API, processes them based on defined priority rules, and ensures all major operations are logged properly.
 
 ---
+---
+
+## 🖼️ Screenshots
+
+### 📱 UI Preview
+![UI Screenshot](./ui.png)
+
+### 💻 Code Preview
+![Code Screenshot](./code.png)
+---
 
 ## 🚀 Features
 
